@@ -61,8 +61,7 @@ menu = st.sidebar.radio(
         "Regression",
         "Classification",
         "Clustering",
-        "Dense NN",
-        "LSTM",
+        
     ],
 )
 
